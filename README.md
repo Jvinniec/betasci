@@ -1,8 +1,9 @@
-# betasci
+# BetaSci
 This repository showcases some of my personal projects and open source projects that I've contributed to. These projects are mostly just
 
 ## Personal Projects
-I've listed the
+Here I've listed personal projects that I've worked on.
+
 ### Python Projects
 
 | Name                   | jupyter | pandas | Description |
@@ -21,7 +22,7 @@ I've listed the
 | [AoE2 AiScript](https://github.com/Jvinniec/aoe2-aiscript) | Visual Studio Code extension to help in writing AI scripts for the Age of Empires 2 video game
 
 ## Professional Projects
-During graduate school and my first Postdoc, I worked on several projects. Below are links to those projects as well as papers and conference proceedings.
+During graduate school and my first Postdoc I worked on several projects as the primary developer. Here are some of those projects:
 
 | Name                   | Description
 |------------------------|-------------
