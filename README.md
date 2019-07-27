@@ -7,7 +7,7 @@ Here I've listed personal projects that I've worked on.
 ### Python Projects
 
 | Name                   | jupyter | pandas | Description |
-|------------------------|:-------:|:------:|:----------:|-------------|
+|------------------------|:-------:|:------:|-------------|
 | [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) | x | x | Assessing the fuel efficiency of my personal vehicle from 2013 through the beginning of 2017.
 
 ### C++ Projects
