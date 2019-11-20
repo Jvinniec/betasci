@@ -1,6 +1,8 @@
-This repository showcases some of my personal projects and open source projects that I've contributed to.
+## Introduction
+This repository showcases some of my personal projects and some of the open source projects that I've contributed to professionally.
 
 **Table of Contents**
+- [Introduction](#introduction)
 - [Personal Projects](#personal-projects)
   - [Python Projects](#python-projects)
   - [C++ Projects](#c-projects)
