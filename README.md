@@ -38,8 +38,9 @@ Here I've listed personal projects that I've worked on.
 
 | Name                   | Description
 |------------------------|-------------
-| Measuring Fuel Economy | A visualization showcasing the data I used in my [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) Python project.
+| [Satellite positions](https://github.com/Jvinniec/tableau_projects/tree/master/active_satellites/) | Satellites based on their distance from the Earth. Also includes several interesting satellite groups.
 | [Exoplanets by Observatory & Method](https://github.com/Jvinniec/tableau_projects/tree/master/exoplanets) | A dashboard containing a sky map of all currently known exoplanets with selectors based on observatory and detection method.
+| Measuring Fuel Economy | A visualization showcasing the data I used in my [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) Python project.
 
 ## Professional Projects
 During graduate school and my first Postdoc I worked on several projects as the lead developer and some as a contributing developer. Some of these projects are restricted to members of the collaboration they were developed for, so in those cases I've only posted a link to a paper or presentation about them. Here are some of those projects:
