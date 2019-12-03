@@ -15,7 +15,7 @@ Here I've listed personal projects that I've worked on.
 
 ### Python Projects
 
-| Name                   | jupyter | pandas | sklearn | tensorflow | Description
+| Name                   | [jupyter](https://jupyter.org/) | [pandas](https://pandas.pydata.org/) | [sklearn](https://scikit-learn.org/stable/index.html) | [TensorFlow](https://www.tensorflow.org/) | Description
 |------------------------|:-------:|:------:|:-------:|:----------:|-------------
 | [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) | x | x | x | x | Assessing the fuel efficiency of my personal vehicle from 2013 through the beginning of 2017.
 
@@ -38,6 +38,7 @@ Here I've listed personal projects that I've worked on.
 
 | Name                   | Description
 |------------------------|-------------
+| [Guild Wars 2 Trading Post Query](https://github.com/Jvinniec/tableau_projects/tree/master/guildwars2_buy_sell) | A web data connector that pulls data from the Guild Wars 2 commerce and items APIs and JOINs the results into a Tableau data source.
 | [Satellite positions](https://github.com/Jvinniec/tableau_projects/tree/master/active_satellites/) | Satellites based on their distance from the Earth. Also includes several interesting satellite groups.
 | [Exoplanets by Observatory & Method](https://github.com/Jvinniec/tableau_projects/tree/master/exoplanets) | A dashboard containing a sky map of all currently known exoplanets with selectors based on observatory and detection method.
 | Measuring Fuel Economy | A visualization showcasing the data I used in my [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) Python project.
