@@ -14,10 +14,14 @@ This repository showcases some of my personal projects and some of the open sour
 Here I've listed personal projects that I've worked on.
 
 ### Python Projects
+The following list of projects make extensive use of [jupyter](https://jupyter.org/) notebooks, [pandas](https://pandas.pydata.org/) dataframes, and matplotlib visualizations. In the case that a machine-learning or deep learning framework was used, the associated algorithm is identified with a link to the project.
 
-| Name                   | [jupyter](https://jupyter.org/) | [pandas](https://pandas.pydata.org/) | [sklearn](https://scikit-learn.org/stable/index.html) | [TensorFlow](https://www.tensorflow.org/) | Description
-|------------------------|:-------:|:------:|:-------:|:----------:|-------------
-| [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) | x | x | x | x | Assessing the fuel efficiency of my personal vehicle from 2013 through the beginning of 2017.
+| Name                   | [sklearn](https://scikit-learn.org/stable/index.html) | [TensorFlow](https://www.tensorflow.org/)/ [PyTorch](https://pytorch.org/) | Description |
+|---|:--:|:--:|---|
+| [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) | random forest | TensorFlow | Assessing the fuel efficiency of my personal vehicle from 2013 through the beginning of 2017. |
+| <td colspan=6>**Those [Kaggle](https://www.kaggle.com/) competitions *everyone* does** |
+| Titanic | [random forest](https://www.kaggle.com/jcardenzana/titanic-scikit-learn-random-forest) | [PyTorch](https://www.kaggle.com/jcardenzana/titanic-pytorch) | Uses machine learning for predicting survivability of passengers on the Titanic | 
+
 
 ### C++ Projects
 
