@@ -40,6 +40,7 @@ The following list of projects make extensive use of [jupyter](https://jupyter.o
 
 | Name                   | Description
 |------------------------|-------------
+| [Child Poverty in America](https://github.com/Jvinniec/tableau_projects/tree/master/child_poverty_rate/) | A visualization showing the child poverty rate in America over three time epochs.
 | [Guild Wars 2 Trading Post Query](https://github.com/Jvinniec/tableau_projects/tree/master/guildwars2_buy_sell) | A web data connector that pulls data from the Guild Wars 2 commerce and items APIs and JOINs the results into a Tableau data source.
 | [Satellite positions](https://github.com/Jvinniec/tableau_projects/tree/master/active_satellites/) | Satellites based on their distance from the Earth. Also includes several interesting satellite groups.
 | [Exoplanets by Observatory & Method](https://github.com/Jvinniec/tableau_projects/tree/master/exoplanets) | A dashboard containing a sky map of all currently known exoplanets with selectors based on observatory and detection method.
