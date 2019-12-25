@@ -1,14 +1,14 @@
-## Introduction
+# Introduction
 This repository showcases some of my personal projects and some of the open source projects that I've contributed to professionally.
 
 **Table of Contents**
-- [Introduction](#introduction)
-- [Personal Projects](#personal-projects)
-  - [Python Projects](#python-projects)
-  - [C++ Projects](#c-projects)
-  - [Javascript/Typescript Projects](#javascripttypescript-projects)
-  - [Tableau Projects](#tableau-projects)
-- [Professional Projects](#professional-projects)
+  - [Personal Projects](#personal-projects)
+    - [Python Projects](#python-projects)
+    - [C++ Projects](#c-projects)
+    - [Javascript/Typescript Projects](#javascripttypescript-projects)
+    - [Tableau Projects](#tableau-projects)
+  - [Professional Projects](#professional-projects)
+  - [Continued Education](#continued-education)
 
 ## Personal Projects
 Here I've listed personal projects that I've worked on.
@@ -54,3 +54,15 @@ During graduate school and my first Postdoc I worked on several projects as the 
 | [CTA Survey Tools](https://catalogue-gems.sciencesconf.org/215179/document) | X | C++, Python | Analysis pipeline for blindly searching and fitting sources in the planned CTA Galactic plane survey
 | [GammaLib](https://github.com/gammalib/gammalib) | | C++, Python| Analysis framework for gamma-ray astrophysics data
 | [*ctools*](https://github.com/ctools/ctools) | | C++, Python | Analysis tools for analyzing data from the CTA observatory
+
+## Continued Education
+I am a firm believer that learning is something we should never stop doing. Here are a list of online courses I've taken to expand my knowledge and skills.
+
+| Topic                  | Details
+|------------------------|-----------------
+| [Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | An overview of the theory behind various machine learning algorithms (decision trees, SVM, random forests, etc...) and how to use scikit-learn for machine learning. 
+| [TensorFlow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) | An introduction to deep learning with TensorFlow/Keras. Learned to build MLPs and CNNs for classification, regression, and image recognition.
+| [PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Taken as part of the Bartelsmann phase 1 scholarship, this course dives deep into the theory behind neural networks. Learned how to build networks using PyTorch for classification, regression, style transfer, and sentiment analysis.
+| [SQL](https://www.udacity.com/course/sql-for-data-analysis--ud198) | Overview of how to query databases using the SQL language.
+| [Tableau]() | Data analysis and visualization in [Tableau](https://github.com/Jvinniec/tableau_projects).
+| Javascript ([Introduction](https://www.udacity.com/course/intro-to-javascript--ud803) & [OOP](https://www.udacity.com/course/object-oriented-javascript--ud711)) | An introduction to javascript and how to use it to create more reactive websites.
