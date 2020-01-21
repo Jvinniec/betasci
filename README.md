@@ -19,8 +19,7 @@ The following list of projects make extensive use of [jupyter](https://jupyter.o
 | Name                   | [sklearn](https://scikit-learn.org/stable/index.html) | [TensorFlow](https://www.tensorflow.org/)/ [PyTorch](https://pytorch.org/) | Description |
 |---|:--:|:--:|---|
 | [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) | random forest | TensorFlow | Assessing the fuel efficiency of my personal vehicle from 2013 through the beginning of 2017. |
-| MNIST digit prediction | | [PyTorch](https://www.kaggle.com/jcardenzana/mnist-pytorch-convolutional-neural-nets) | Uses a convolutional neural network for analyzing hand written 0-9 digits. |
-| Titanic survival probability | [random forest](https://www.kaggle.com/jcardenzana/titanic-scikit-learn-random-forest) | [PyTorch](https://www.kaggle.com/jcardenzana/titanic-pytorch)/ [TensorFlow](https://www.kaggle.com/jcardenzana/titanic-tensorflow/notebook) | ([Kaggle](https://www.kaggle.com/)) Uses machine learning for predicting survivability of passengers on the Titanic | 
+| [Kaggle](kaggle/) | | | Various projects involving [Kaggle](https://www.kaggle.com/) competitions and kernels. |
 
 ### C++ Projects
 
