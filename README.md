@@ -3,6 +3,7 @@ This repository showcases some of my personal projects and some of the open sour
 
 **Table of Contents**
   - [Personal Projects](#personal-projects)
+    - [Algorithms](#algorithms)
     - [Python Projects](#python-projects)
     - [C++ Projects](#c-projects)
     - [Javascript/Typescript Projects](#javascripttypescript-projects)
@@ -12,6 +13,10 @@ This repository showcases some of my personal projects and some of the open sour
 
 ## Personal Projects
 Here I've listed personal projects that I've worked on.
+
+### Algorithms
+A collection of various algorithms that I've put together can be accessed in the following repository: 
+* [Algorithms](https://github.com/Jvinniec/algorithms)
 
 ### Python Projects
 The following list of projects make extensive use of [jupyter](https://jupyter.org/) notebooks, [pandas](https://pandas.pydata.org/) dataframes, and matplotlib visualizations. In the case that a machine-learning or deep learning framework was used, the associated algorithm is identified with a link to the project.
