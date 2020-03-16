@@ -15,7 +15,7 @@ This repository showcases some of my personal projects and some of the open sour
 Here I've listed personal projects that I've worked on.
 
 ### Algorithms
-A collection of various algorithms that I've put together can be accessed in the following repository: 
+A collection of various algorithms in Python and C++ that I've put together can be accessed in the following repository: 
 * [Algorithms](https://github.com/Jvinniec/algorithms)
 
 ### Python Projects
