@@ -24,6 +24,7 @@ The following list of projects make extensive use of [jupyter](https://jupyter.o
 | Name                   | [sklearn](https://scikit-learn.org/stable/index.html) | [TensorFlow](https://www.tensorflow.org/)/ [PyTorch](https://pytorch.org/) | Description |
 |---|:--:|:--:|---|
 | [Measuring fuel economy](https://github.com/Jvinniec/fuel_economy) | random forest | TensorFlow | Assessing the fuel efficiency of my personal vehicle from 2013 through the beginning of 2017. |
+| [Historical Stock Data](https://github.com/Jvinniec/di-milestoneproj) | | | Simple webapp for fetching & displaying stock data for a user supplied symbol that uses *Flask*. |
 | [Kaggle](kaggle/) | | | Various projects involving [Kaggle](https://www.kaggle.com/) competitions and kernels. |
 
 ### C++ Projects
@@ -32,6 +33,8 @@ The following list of projects make extensive use of [jupyter](https://jupyter.o
 |------------------------|-------------
 | [CppEphem](https://github.com/Jvinniec/CppEphem) | A self contained ephemeris package for computing celestial coordinates using the Standards of Fundamental Astronomy library
 | [Lutz One Pass](https://github.com/Jvinniec/lutz_one_pass) | An implementation of the [Lutz One Pass algorithm](https://doi.org/10.1093/comjnl/23.3.262), an algorithm for extracting information from an image in a single pass over that image.
+
+*Additional C++ projects in the [professional projects](#professional-projects) section.*
 
 ### Javascript/Typescript Projects
 
@@ -55,8 +58,8 @@ The following list of projects make extensive use of [jupyter](https://jupyter.o
 ## Professional Projects
 During graduate school and my first Postdoc I worked on several projects as the lead developer and some as a contributing developer. Some of these projects are restricted to members of the collaboration they were developed for, so in those cases I've only posted a link to a paper or presentation about them. Here are some of those projects:
 
-| Name                   | Lead Dev. | Prog. Languages | Description
-|------------------------|:---------:|-----------------|-------------
+| Name                   | Lead Developer | Prog. Languages | Description
+|------------------------|:--------------:|:---------------:|-------------
 | [VERITAS 3DMLM](https://pos.sissa.it/236/1031/pdf) | X | C++ | Analysis tools for detecting and characterizing astrophysical, gamma-ray sources in data from the VERITAS observatory
 | [CTA Survey Tools](https://catalogue-gems.sciencesconf.org/215179/document) | X | C++, Python | Analysis pipeline for blindly searching and fitting sources in the planned CTA Galactic plane survey
 | [GammaLib](https://github.com/gammalib/gammalib) | | C++, Python| Analysis framework for gamma-ray astrophysics data
